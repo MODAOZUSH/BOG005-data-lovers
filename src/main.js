@@ -52,7 +52,12 @@ function printOrderByScore() {
 const btnCuriousFact = document.getElementById("cuantity");
 btnCuriousFact.addEventListener("click", printCuriousData);
 
+const btnCuriousFact = document.getElementById("cuantity");
+btnCuriousFact.addEventListener("click", printCuriousData);
+
 function printCuriousData() {
-    const listDirectors = utilities.curiousData(films);
-    (listDirectors);
+    const orderCurious = utilities.curiousData(films);
+    printMovies(orderCurious);
 }
+
+

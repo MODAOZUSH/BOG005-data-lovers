@@ -29,18 +29,27 @@ const utilities = {
     return arrayFilter;
   },
 
-  curiousData: function(data) {
-    const listDirectors = data.map(film => film.director).filter(onlyUnique);
-    console.log(listDirectors);
-    return listDirectors;
-  },
-   
-}
+  curiousData: function (films) {
+    // obtenemos los directores sin duplicados.
+    const directors = [];
+    films.forEach(film => {
+      if (!directors.includes(film.director))
+        directors.push(film.director);
+    });
 
-function onlyUnique(value, index, self) {
-  return self.indexOf(value) === index;
+    // obtiene la cantidad de peliculas de cada director.
+    const result = directors.map(function (director) {
+      let movies = films.filter(film => film.director == director)
+      let cantidad = movies.length;
+      return {
+        "director": director,
+        "length": cantidad,
+        "films": movies,
+      }
+    });
+    console.log(result);
+    return result
+  },
 }
 
 export default utilities;
-
-
