@@ -4,10 +4,13 @@ import utilities from './data.js';
 
 const films = data.films;
 const listMovie = document.getElementById("peliculas");
+const cardDirectors = document.getElementById("directores");
+
 
 function printMovies(movies) {
     // limpia contenerdor
     listMovie.innerHTML = "";
+    cardDirectors.innerHTML = "";
 
     // agrega peliculas
     movies.forEach(function (film) {
@@ -18,7 +21,7 @@ function printMovies(movies) {
         img.classList.add("imgMovie");
         listMovie.appendChild(newLabel);
         newLabel.appendChild(img);
-        newLabel.innerHTML += `<h3>${film.title}</h3> Director: ${film.director} <br> Relase date: ${film.release_date} <br> Raiting: ${film.rt_score}/100`;
+        newLabel.innerHTML += `<h3>${film.title}</h3> Director: ${film.director} <br> Relase date: ${film.release_date} <br> Raiting: ${film.rt_score}`;
     });
 }
 printMovies(films);
@@ -55,10 +58,11 @@ btnDirectors.addEventListener("click", printDirectors);
     function printDirectors() {
         const directors = utilities.curiousData(films);
         listMovie.innerHTML = "";
+        cardDirectors.innerHTML = "";
+
 
       directors.forEach(function (director) {
             const trim = director.name.replace(/\s+/g, '')
-            const cardDirectors = document.getElementById("directores")
             const labelDir = document.createElement("li");
             const imgDirector = document.createElement("img");
             imgDirector.setAttribute("srcset", `${trim}.jpg`);
@@ -66,7 +70,7 @@ btnDirectors.addEventListener("click", printDirectors);
             labelDir.classList.add("card");
             cardDirectors.appendChild(labelDir);
             labelDir.appendChild(imgDirector);
-            labelDir.innerHTML += `<h3>${director.name}</h3> Cantidad de Peliculas: ${director.length} / 20`;
+            labelDir.innerHTML += `<h3>${director.name}</h3> Total movies: ${director.length}` ;
         });
     }
 

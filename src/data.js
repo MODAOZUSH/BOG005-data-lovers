@@ -1,5 +1,5 @@
 const utilities = {
-  sortData: function (data, sortBy = 'title', sortOrder = 'ascendente') {
+  sortData: function (data, sortBy = 'title', sortOrder =  'ascendente') {
     const result = data.sort((a, b) => {
       let ma = a[sortBy].toUpperCase();
       let mb = b[sortBy].toUpperCase();
