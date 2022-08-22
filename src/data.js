@@ -44,10 +44,8 @@ const utilities = {
       return {
         "name": director,
         "length": cantidad,
-        "films": movies,
       }
     });
-    console.log(result);
     return result
   },
 }

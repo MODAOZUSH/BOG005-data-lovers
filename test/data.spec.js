@@ -34,7 +34,7 @@ describe('utilities.curiousData', () => {
   });
 
   it('returns `utilities.curiousData`', () => {
-    const directors = [{ director: "Hayao", length: "2", movies: "any" }, { director: "Isao", length: "1", movies: "any" }, { director: "Hiroyuki", length: "1", movies: "any" }, { director: "Hayao", length: "2", movies: "any" }, { director: "Isao", length: "1", movies: "any" }];
-    expect(utilities.curiousData(directors)).toEqual([{ director: "Hayao", length: "2", movies: "any" }, { director: "Isao", length: "1", movies: "any" }, { director: "Hiroyuki", length: "1", movies: "any" }]);
+    const directors = [{ director: "Hayao Miyazaki" }, { director: "Hayao Miyazaki" }, { director: "Isao Takahata" }];
+    expect(utilities.curiousData(directors)).toEqual([{ name: "Hayao Miyazaki", length: 2 }, { name: "Isao Takahata", length: 1 }]);
   });
 });

@@ -20,7 +20,7 @@ function printMovies(movies) {
         img.classList.add("imgMovie");
         listMovie.appendChild(newLabel);
         newLabel.appendChild(img);
-        newLabel.innerHTML += `<h3>${film.title}</h3> Director: ${film.director} <br> Relase date: ${film.release_date} <br> Raiting: ${film.rt_score}`;
+        newLabel.innerHTML += `<h3>${film.title}</h3> Director: ${film.director} <br> Relase date: ${film.release_date} <br> Raiting: ${film.rt_score}/100`;
     });
 }
 printMovies(films);
@@ -58,15 +58,31 @@ function printDirectors() {
     cardDirectors.innerHTML = "";
 
     directors.forEach(function (director) {
-        const trim = director.name.replace(/\s+/g, '');
+        const withouSpace = director.name.replace(/\s+/g, '');
         const labelDir = document.createElement("li");
         const imgDirector = document.createElement("img");
-        imgDirector.setAttribute("srcset", `${trim}.jpg`);
+        imgDirector.setAttribute("srcset", `img/${withouSpace}.jpg`);
         imgDirector.classList.add("imgDir");
         labelDir.classList.add("card");
         cardDirectors.appendChild(labelDir);
         labelDir.appendChild(imgDirector);
-        labelDir.innerHTML += `<h3>${director.name}</h3> Total movies: ${director.length}`;
+        labelDir.innerHTML += `<h3>${director.name}</h3> Total movies: ${director.length} /20`;
     });
 }
 
+const btnTop = document.getElementById("topBtn");
+window.onscroll = function () { scrollFunction() };
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        btnTop.style.display = "block";
+    } else {
+        btnTop.style.display = "none";
+    }
+}
+
+const btnTopUp = document.getElementById("topBtn");
+btnTopUp.addEventListener("click", topFunction);
+function topFunction() {
+    document.body.scrollTop = 0; // para safari
+    document.documentElement.scrollTop = 0; // para Chrome
+}
