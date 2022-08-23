@@ -12,4 +12,4 @@
 
 ## PROTOTIPO DE ALTA FIDELIDAD
 
-<img width="400" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"> <img width="250" height="350" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTORIPOMOBILE.jpg">
+<img width="400" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"> <img width="250" height="450" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTORIPOMOBILE.jpg">
