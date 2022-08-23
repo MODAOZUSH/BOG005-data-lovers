@@ -10,10 +10,11 @@
 5. Test de usabilidad
 
 ## Resumen del proyecto
+Studio Ghibli es considerado uno de los mejores estudios de animación en el mundo. Por ello, queremos ofrecer una página, donde sea posible visualizar las películas realizadas por el estudio, mostrando el director, el año de publicación y la calificación que el público dio a las mismas. Es posible ordenarlas en orden alfabético, ver el top de las mejores cinco películas y ver el listado de directores y el número de películas que realizaron; algo que seguramente agradará a los fans de éste estudio de animación.
 
 ## Historias de usuario
 
-<img width="430" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIAUNO.jpg"> <img width="430" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIADOS.jpg"> <img width="430" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIATRES.jpg"> <img width="430" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIACUATRO.jpg">
+<img width="400" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIAUNO.jpg"> <img width="400" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIADOS.jpg"> <img width="400" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIATRES.jpg"> <img width="400" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIACUATRO.jpg">
 
 ## Prototipo de baja fidelidad
 
