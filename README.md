@@ -22,6 +22,8 @@ Con el fin de realizar el proyecto, se planteo de acuerdo a los objetivos cuatro
 
 ## Prototipo de alta fidelidad
 Se plantea una maqueta de alta fidelidad, pensando en la fácil visualización de todas las películas por parte de los usuarios, con la información relevante de cada película de forma corta y precisa, en componentes visualmente separados para cada película.
+
+
 <img width="400" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"> <img width="250" height="450" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTORIPOMOBILE.jpg">
 
 ## Test de usabilidad
