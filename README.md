@@ -17,17 +17,19 @@ Con el fin de realizar el proyecto, se planteo de acuerdo a los objetivos cuatro
 <img width="400" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIAUNO.jpg"> <img width="400" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIADOS.jpg"> <img width="400" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIATRES.jpg"> <img width="400" alt="historias_usuarios" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/HISTORIACUATRO.jpg">
 
 ## Prototipo de baja fidelidad
-<strong>Vista Desktop</strong>
+Realizamos un esquema básico para mostrar la información, como un primer acercamiento a la data y su contenido.
+
+<strong>Vista Desktop</strong><br> 
 <img width="400" alt="prototipos_baja" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEBAJA.jpg"><br> 
-<strong>Vista Mobile</strong>
+<strong>Vista Mobile</strong><br> 
 <img width="400" alt="prototipos_baja" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEBAJAMOBILE.jpg">
 
 ## Prototipo de alta fidelidad
 Se plantea una maqueta de alta fidelidad, pensando en la fácil visualización de todas las películas por parte de los usuarios, con la información relevante de cada película de forma corta y precisa, en componentes visualmente separados para cada película.
 
-<strong>Vista Desktop</strong>
+<strong>Vista Desktop</strong><br> 
 <img width="400" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"><br>
-<strong>Vista Mobile</strong>
+<strong>Vista Mobile</strong><br> 
 <img width="250" height="550" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTORIPOMOBILE.jpg">
 
 ## Test de usabilidad
