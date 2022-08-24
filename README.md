@@ -20,7 +20,7 @@ Con el fin de realizar el proyecto, se planteo de acuerdo a los objetivos cuatro
 Realizamos un esquema básico para mostrar la información, como un primer acercamiento a la data y su contenido.
 
 <strong>Vista Desktop</strong><br> 
-<img width="400" alt="prototipos_baja" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEBAJA.jpg"><br> 
+<img width="800" alt="prototipos_baja" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEBAJA.jpg"><br> 
 <strong>Vista Mobile</strong><br> 
 <img width="400" alt="prototipos_baja" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEBAJAMOBILE.jpg">
 
@@ -28,10 +28,11 @@ Realizamos un esquema básico para mostrar la información, como un primer acerc
 Se plantea una maqueta de alta fidelidad, pensando en la fácil visualización de todas las películas por parte de los usuarios, con la información relevante de cada película de forma corta y precisa, en componentes visualmente separados para cada película.
 
 <strong>Vista Desktop</strong><br> 
-<img width="400" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"><br>
+<img width="800" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"><br>
 <strong>Vista Mobile</strong><br> 
-<img width="442" height="1170" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTORIPOMOBILE.jpg">
+<img width="221" height="585" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/Prototipo-mobile-alta.png"
 
 ## Test de usabilidad
+
 En este [link](https://www.youtube.com/watch?v=8VYePurSRAA&ab_channel=YeimmyLopez) se visualiza una prueba de como funciona la pagina web y de acuerdo al video los usuarios reclacaron la necesidad de un boton que permitiera volver al inicio sin necesidad de subir con el mouse.
 Agregando el boton posteriormente se les pregunto nuevamente a los usuarios acerca de la información que se encuentra en la pagina de acuerdo a si los datos de las peliculas era la necesaria o deseaban agregar algo, como respuesta obtenida, el usuario socializo que los datos eran suficientes y claros como amantes de Studio Ghibli.
