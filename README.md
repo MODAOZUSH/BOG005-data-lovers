@@ -18,13 +18,15 @@ Con el fin de realizar el proyecto, se planteo de acuerdo a los objetivos cuatro
 
 ## Prototipo de baja fidelidad
 
-<img width="400" alt="prototipos_baja" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEBAJA.jpg"> <img width="400" alt="prototipos_baja" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEBAJAMOBILE.jpg">
+<img width="400" alt="prototipos_baja" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEBAJA.jpg"><br> 
+<img width="400" alt="prototipos_baja" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEBAJAMOBILE.jpg">
 
 ## Prototipo de alta fidelidad
 Se plantea una maqueta de alta fidelidad, pensando en la fácil visualización de todas las películas por parte de los usuarios, con la información relevante de cada película de forma corta y precisa, en componentes visualmente separados para cada película.
 
 
-<img width="400" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"> <img width="250" height="450" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTORIPOMOBILE.jpg">
+<img width="400" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"><br>
+<img width="250" height="550" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTORIPOMOBILE.jpg">
 
 ## Test de usabilidad
 En este [link](https://www.youtube.com/watch?v=8VYePurSRAA&ab_channel=YeimmyLopez) se visualiza una prueba de como funciona la pagina web y de acuerdo al video los usuarios reclacaron la necesidad de un boton que permitiera volver al inicio sin necesidad de subir con el mouse.
