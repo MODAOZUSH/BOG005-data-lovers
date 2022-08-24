@@ -30,7 +30,7 @@ Se plantea una maqueta de alta fidelidad, pensando en la fácil visualización d
 <strong>Vista Desktop</strong><br> 
 <img width="400" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"><br>
 <strong>Vista Mobile</strong><br> 
-<img width="250" height="550" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTORIPOMOBILE.jpg">
+<img width="442" height="1170" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTORIPOMOBILE.jpg">
 
 ## Test de usabilidad
 En este [link](https://www.youtube.com/watch?v=8VYePurSRAA&ab_channel=YeimmyLopez) se visualiza una prueba de como funciona la pagina web y de acuerdo al video los usuarios reclacaron la necesidad de un boton que permitiera volver al inicio sin necesidad de subir con el mouse.
