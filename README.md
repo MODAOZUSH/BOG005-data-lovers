@@ -28,9 +28,12 @@ Realizamos un esquema básico para mostrar la información, como un primer acerc
 Se plantea una maqueta de alta fidelidad, pensando en la fácil visualización de todas las películas por parte de los usuarios, con la información relevante de cada película de forma corta y precisa, en componentes visualmente separados para cada película.
 
 <strong>Vista Desktop</strong><br> 
-<img width="800" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/PROTOTIPODEALTA.jpg"><br>
+<img width="800" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/Prototipo-Alta.jpg"><br><br>
+
+<img width="800" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/Prototipo-Alta-Pagina2.jpg"><br>
+
 <strong>Vista Mobile</strong><br> 
-<img width="221" height="585" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/Prototipo-mobile-alta.png"
+<img width="221" height="585" alt="prototipos_de_alta" src="https://github.com/MODAOZUSH/BOG005-data-lovers/blob/main/Prototipo-mobile-alta.jpg">
 
 ## Test de usabilidad
 
